@@ -18,6 +18,12 @@
     "id": 4,
     "firstName" :"Janez",
     "lastName": "Markovič"
+   },
+   ,
+    {
+    "id": 5,
+    "firstName" :"Mirko",
+    "lastName": "Šepetavc"
    }
 ],
 
