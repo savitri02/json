@@ -1,5 +1,4 @@
 {
-
 "posts": [
     {
       "id": 1,
@@ -8,8 +7,8 @@
   ],
 "profile": {
     "name": "typicode"
+}
 ,
-
 "config": [
    {"name":"rd",
    "id":0,
