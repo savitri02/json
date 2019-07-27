@@ -1,7 +1,5 @@
-git remote add origin https://github.com/savitri02/json.git
-git push -u origin masteremitter-io mqtt broker
 
-[{"name":"rd",
+"config":[{"name":"rd",
    "id":0,
    "parts":1,
    "subThing":[{"type":0,
