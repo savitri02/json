@@ -1,4 +1,13 @@
 {
+"users": [{"firstName" :"Bojan",
+           "lastName": "Novak" 
+          },
+          {
+           "firstName" :"Bojana",
+           "lastName": "Novak"
+          }
+],
+
 "posts": [
     {
       "id": 1,
