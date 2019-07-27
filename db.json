@@ -1,4 +1,15 @@
 {
+
+"posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+"profile": {
+    "name": "typicode"
+,
+
 "config": [
    {"name":"rd",
    "id":0,
