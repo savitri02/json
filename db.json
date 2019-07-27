@@ -1,11 +1,12 @@
 {
-"users": [{"firstName" :"Bojan",
+"users": [
+   {"firstName" :"Bojan",
            "lastName": "Novak" 
-          },
-          {
-           "firstName" :"Bojana",
-           "lastName": "Novak"
-          }
+   },
+   {
+    "firstName" :"Bojana",
+    "lastName": "Novak"
+   }
 ],
 
 "posts": [
