@@ -1,0 +1,72 @@
+git remote add origin https://github.com/savitri02/json.git
+git push -u origin masteremitter-io mqtt broker
+
+[{"name":"rd",
+   "id":0,
+   "parts":1,
+   "subThing":[{"type":0,
+               "topic":"/edvard.grmadnik@gmail.com/btemp",
+               "value":false}]
+  },
+  {"name":"Gar. vrata",
+   "id":1,
+   "parts":1,
+   "subThing":[{"type":0,
+   				"topic":"/edvard.grmadnik@gmail.com/garaza",
+   				"value":false}]
+  },
+  {"name":"Bojler",
+   "id":2,
+   "parts":1,
+   "subThing":[{"type":1,
+   				"topic":"/edvard.grmadnik@gmail.com/tempb",
+   				"minVal":20,
+   				"maxVal":60,
+   				"step":1,
+   				"value":"30"}]
+   },
+   {"name":"Temp. Bojlera",
+   	"id":3,
+   	"parts":1,
+   	"subThing":[{"type":2,
+   				"topic":"/edvard.grmadnik@gmail.com/t1",
+   			    "value":"38",
+   			    "unit":"Celsius***"}]
+   },
+   {"name":"Temp kotla",
+   	"id":4,
+   	"parts":1,
+   	"subThing":[{"type":2,
+   				 "topic":"/edvard.grmadnik@gmail.com/t2",
+   				 "value":"33",
+   				 "unit":"Celsius"}]},
+   	{"name":"Temp dnevna soba",
+   	 "id":5,
+   	 "parts":1,
+   	 "subThing":[{"type":2,
+   	 			  "topic":"/edvard.grmadnik@gmail.com/t3",
+   	 			  "value":"34",
+   	 			  "unit":"CelsiusA"}]
+   	},
+   	{"name":"Garaza zak. gor",
+   	 "id":6,
+   	 "parts":1,
+   	 "subThing":[{"type":1,
+   	              "topic":"/edvard.grmadnik@gmail.com/garaza_delay_up",
+   	              "minVal":0,
+   	              "maxVal":60,
+   	              "step":1,
+   	              "value":"26"}]
+   	},
+   	{"name":
+   	 "Garaza zakasnitev dol",
+   	 "id":7,
+   	 "parts":1,
+   	 "subThing":[{"type":1,
+   	 			  "topic":"/edvard.grmadnik@gmail.com/garaza_delay_down",
+   	 			  "minVal":0,
+   	 			  "maxVal":60,
+   	 			  "step":1,
+   	 			  "value":"22"}]
+   	}
+]
