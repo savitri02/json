@@ -1,4 +1,5 @@
-"albums":[
+{
+   "albums":[
   {
     "albumId": 1,
     "id": 1,
@@ -21,3 +22,4 @@
     "thumbnailUrl": "https://via.placeholder.com/150/24f355"
   }
 ]
+}
