@@ -8,6 +8,11 @@
     "id": 2,
     "firstName" :"Bojana",
     "lastName": "Novak"
+   },
+    {
+    "id": 3,
+    "firstName" :"Jerneja",
+    "lastName": "Novak"
    }
 ],
 
