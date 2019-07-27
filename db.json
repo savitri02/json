@@ -1,5 +1,4 @@
 {
-
 "config": [
    {"name":"rd",
    "id":0,
@@ -69,7 +68,7 @@
                  "step":1,
                  "value":"22"}]
    }
-],   
+ ],   
 
 "albums":[
   {
@@ -93,5 +92,5 @@
     "url": "https://via.placeholder.com/600/24f355",
     "thumbnailUrl": "https://via.placeholder.com/150/24f355"
   }
-]
+ ]
 }
